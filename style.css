@@ -1,0 +1,59 @@
+.row {
+    margin: 0 auto;
+    width: 700px;
+    height: 450px;
+    border: 3px solid #8B6969;
+    margin-top: 100px;
+    padding: 20px;
+    background: silver;
+}
+h2 {color: #3a9c9c;}
+.package-name {
+    font-size: 24px;
+    color: #3a9c9c;
+    margin-left: 50px;
+}
+.price {
+    font-size: 36px;
+    margin-top: -100px;
+    margin-left: 200px;
+    color: #3a9c9c;
+}
+.temp {
+    margin-top: -60px;
+    margin-left: 400px;
+}
+.wind {
+    margin-top: -30px;
+    margin-left: 400px;
+}
+.disclaimer {margin-left: 50px;}
+.price_min {
+    color: #3a9c9c;
+    margin-left: 50px;
+}
+.price_max {
+    color: #3a9c9c;
+    margin-left: 47px;
+}
+.speed {
+    color: #3a9c9c;
+    margin-left: 38px;
+}
+.package {
+    background: rgb(243, 226, 226);
+    height: 230px;
+    border: 1px solid brown;
+}
+.package:nth-child(2) {
+    margin-top: 50px;
+    height: 300px;
+}
+.date {
+    position: relative;
+    float: right;
+    right: -110px;
+}
+div > .input-field {margin-top: -80px;}
+.min_max_temp {display: none;}
+img {margin-left: 30px;}
